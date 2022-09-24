@@ -62,5 +62,8 @@
   },
   "standard": {
     "parser": "babel-eslint"
+  },
+  "dependencies": {
+    "@react-native-community/blur": "^4.2.0"
   }
 }
